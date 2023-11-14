@@ -1,0 +1,14 @@
+name: DRP
+version: '${project.version}'
+main: dice.jiuc.dicyrps.Main
+api-version: '1.19'
+commands:
+  rplink:
+    aliases:
+      - rpl
+  rpcreate:
+    aliases:
+      - rpc
+  rp:
+    aliases:
+      - resourcepack
